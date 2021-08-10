@@ -519,7 +519,7 @@
     font-family: Georgia, serif;
     }
     .about_us .about_container p{
-    font-family:georgia;
+    font-family:georgia ,serif;
     line-height:25px;
     }
     .feed{
